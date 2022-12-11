@@ -1,16 +1,10 @@
-# FlashPad
-
-A Simple Text Editor!
+# PixelTime
 
 ## Description
-FlashPad is a simple text editor that can be used to read and write to text files.
+Welcome to PixelTime, the ultimate digital clock app for your PC! With a sleek and stylish design, PixelTime makes it easy to keep track of the time, no matter where you are.
 
 ## Preview
-![alt text](https://github.com/ImaraBradley001/FlashPad/raw/master/preview/1.png)
-<br/>
-![alt text](https://github.com/ImaraBradley001/FlashPad/raw/master/preview/2.png)
-<br/>
-![alt text](https://github.com/ImaraBradley001/FlashPad/raw/master/preview/3.png)
+![alt text](https://github.com/ImaraBradley001/PixelTime/raw/master/preview/1.png)
 
 ## Getting Started
 
@@ -25,18 +19,18 @@ FlashPad is a simple text editor that can be used to read and write to text file
 
 * To install from this git repository, run the following commands
 ```
-git clone https://github.com/ImaraBradley001/FlashPad.git
-cd FlashPad
+git clone https://github.com/ImaraBradley001/PixelTime.git
+cd PixelTime
 pip install -r requirements.txt
 ```
 * Or simply download the latest release binary
 
-### Executing Flashpad
+### Executing PixelTime
 * To run FlashPad, simply run the following command from the downloaded repository.
 ```
 python src/main.py
 ```
-* Or simply run the downloaded binary FlashPad.exe 
+* Or simply run the downloaded binary PixelTime.exe 
 
 ## Authors
 
