@@ -26,7 +26,7 @@ pip install -r requirements.txt
 * Or simply download the latest release binary
 
 ### Executing Pixel Time
-* To run FlashPad, simply run the following command from the downloaded repository.
+* To run Pixel Time, simply run the following command from the downloaded repository.
 ```
 python src/main.py
 ```
