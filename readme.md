@@ -1,7 +1,7 @@
-# PixelTime
+# Pixel Time
 
 ## Description
-Welcome to PixelTime, the ultimate digital clock app for your PC! With a sleek and stylish design, PixelTime makes it easy to keep track of the time, no matter where you are.
+Welcome to Pixel Time, the ultimate digital clock app for your PC! With a sleek and stylish design, Pixel Time makes it easy to keep track of the time, no matter where you are.
 
 ## Preview
 ![alt text](https://github.com/ImaraBradley001/PixelTime/raw/master/preview/1.png)
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 * Or simply download the latest release binary
 
-### Executing PixelTime
+### Executing Pixel Time
 * To run FlashPad, simply run the following command from the downloaded repository.
 ```
 python src/main.py
