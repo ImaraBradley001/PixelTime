@@ -1,7 +1,7 @@
 # Pixel Time
 
 ## Description
-Welcome to Pixel Time, the ultimate digital clock app for your PC! With a sleek and stylish design, Pixel Time makes it easy to keep track of the time, no matter where you are.
+Welcome to Pixel Time, the ultimate digital clock app for your PC! With a sleek and stylish design, Pixel Time makes it easy to keep track of the time, compared to looking at system time on the task bar for which you will have to squinch your eyes.
 
 ## Preview
 ![alt text](https://github.com/ImaraBradley001/PixelTime/raw/master/preview/1.png)
